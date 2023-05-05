@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Jaisreet
-- 👀 I’m interested in software developer positions
-- 🌱 I’m currently learning ruby on rails
 - 📫 Reach me at jaisreetkhaira@gmail.com
 
 <!---
