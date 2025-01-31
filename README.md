@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaisreet
-- 📫 Reach me at jaisreetkhaira@gmail.com
+- 📫 Reach me at jaisreetk@gmail.com
 - Highly motivated individual, adept at leveraging data-driven insights to solve complex problems and optimize processes. Strong analytical skills combined with a passion for leveraging technology to drive innovation and enhance decision-making. Demonstrated ability to collaborate effectively in cross-functional teams and deliver results within tight deadlines. Seeking a professional role that allows me to apply my expertise in statistics, and computer science to make a meaningful impact.
 
 <!---
